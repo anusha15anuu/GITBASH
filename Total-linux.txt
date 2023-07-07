@@ -1,3 +1,6 @@
+LINUX COMMAND
+
+
 ls ---> used to list files and dirs
 
 ls -l  --> list files and dirs with long format
